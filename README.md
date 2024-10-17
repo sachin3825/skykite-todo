@@ -42,7 +42,7 @@ This project is a simple To-Do List web application built using **React.js**, **
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sachin3825/skykite-todo.git
    cd todo-app
    ```
 
